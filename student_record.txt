@@ -1,0 +1,7 @@
+STUDENT RECORD
+
+Name: Jose Enrique Beltran
+Course: BSCSSE
+Year Level: 4th year
+Favorite Programming Language: Python
+Career Goal: To be a successful QA
